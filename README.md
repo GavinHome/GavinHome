@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavinhome" alt="gavinhome" /></a> </p>
 
-- 💬 Ask me about **.NET, Vue, React, Flutter, Sql,**
+- 💬 Ask me about **.NET, Vue, React, Flutter, Sql, LLMs**
 
 - 📫 How to reach me **yangxiaoming512@gmail.com**
 
